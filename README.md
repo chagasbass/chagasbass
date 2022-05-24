@@ -1,13 +1,16 @@
 ### Hello there 👋
-### My name is Thiago Chagas"!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
-          
-          
-          
-Here are some ideas to get you started:
+##First solve the problem, them write the code!
 
-- 🔭 .Net Developer.
-- 🌱  Rio de Janeiro
+Quem sou 
+- 🔭 Thiago Chagas
+- 🌱 .Net Developer
+- 👯 Rio De Janeiro
+- 🤔 Brasil
+- 💬 Futebol
+- 📫 Basquete
+- 😄 Karatê
+- ⚡ Música
+
+### Trabalho com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
